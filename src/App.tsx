@@ -152,7 +152,7 @@ export default function App() {
 
           {/* Suryanshu Socials */}
           <div className="flex flex-wrap items-center justify-center gap-3">
-            <span className="font-medium text-foreground">Suryanshu</span>
+            <span className="font-medium text-foreground">Suryanshu Nabheet</span>
             <span className="text-border">·</span>
             <a
               href="https://github.com/Suryanshu-Nabheet"
